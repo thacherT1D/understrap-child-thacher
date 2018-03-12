@@ -9510,10 +9510,7 @@ html {
   font-weight: 600;
   color: #062B46; }
 
-.wrapper {
-  padding-top: 120px; }
-
-header {
+.main-header {
   background-image: url("../src/img/header2_sm.jpg");
   width: 100%;
   color: white;
@@ -9522,8 +9519,11 @@ header {
   background-repeat: no-repeat;
   background-position: center center;
   background-color: #ECECEC; }
-  header .header-content {
+  .main-header .header-content {
     padding: 200px 15px 150px; }
+
+.comments-area {
+  margin-top: 50px; }
 
 footer {
   text-align: center; }

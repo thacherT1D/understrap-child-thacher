@@ -32,10 +32,23 @@ html {
   color: $primary;
 }
 .wrapper {
-  padding-top: 120px;
+  // padding-top: 120px;
 }
 
 header {
+  // background-image: url('../src/img/header2_sm.jpg');
+  // width: 100%;
+  // color: white;
+  // text-align: center;
+  // background-size: 1440px 960px;
+  // background-repeat: no-repeat;
+  // background-position: center center;
+  // background-color: $light;
+  // .header-content {
+  //   padding: 200px 15px 150px;
+  // }
+}
+.main-header {
   background-image: url('../src/img/header2_sm.jpg');
   width: 100%;
   color: white;
@@ -47,6 +60,9 @@ header {
   .header-content {
     padding: 200px 15px 150px;
   }
+}
+.comments-area {
+  margin-top: 50px;
 }
 footer {
   text-align: center;
