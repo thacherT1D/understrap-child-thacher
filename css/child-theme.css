@@ -9530,7 +9530,8 @@ footer {
 
 .divider-line {
   width: 100px;
-  border-top-width: 3px; }
+  border-top-width: 3px;
+  margin-bottom: 40px; }
 
 .light {
   color: #ECECEC; }
@@ -9565,7 +9566,7 @@ footer {
   margin-bottom: 20px; }
 
 section {
-  padding: 120px 0; }
+  padding: 50px 0; }
 
 .mission-text {
   padding-top: 50px; }
@@ -9632,7 +9633,7 @@ section {
   color: #33BBDE; }
 
 .btn-download {
-  float: right; }
+  margin-top: 25px; }
   @media (max-width: 576px) {
     .btn-download {
       display: block;

@@ -70,6 +70,7 @@ footer {
 .divider-line {
   width: 100px;
   border-top-width: 3px;
+  margin-bottom: 40px;
 }
 
 .light {
@@ -110,7 +111,7 @@ footer {
   margin-bottom: 20px;
 }
 section {
-    padding: 120px 0;
+    padding: 50px 0;
 }
 .mission-text {
   padding-top: 50px;
@@ -206,7 +207,7 @@ section {
 
 // RESUME DOWNLOAD
 .btn-download {
-  float: right;
+  margin-top: 25px;
   @media (max-width: 576px) {
       display: block;
       width: 100%;
